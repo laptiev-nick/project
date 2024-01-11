@@ -1,8 +1,8 @@
 .container {
-    margin: 10px;
+    margin: auto;
     color: red;
 }
 
-.foo {
+.foo-aaa {
     display: flex;
 }
