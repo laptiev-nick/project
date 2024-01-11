@@ -11,4 +11,5 @@
 
 .foo2 {
     max-width: 1000px;
+    overflow: hidden;
 }
