@@ -8,3 +8,7 @@
     flex-direction: row;
     justify-content: center;
 }
+
+.foo2 {
+    max-width: 1000px;
+}
