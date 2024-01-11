@@ -5,4 +5,5 @@
 
 .foo-aaa {
     display: flex;
+    flex-direction: row;
 }
